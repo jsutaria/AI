@@ -1,2 +1,2 @@
 # AI
-An AI that creates sentences based off of an input text file
+A simple AI that creates sentences based off of an input text file
